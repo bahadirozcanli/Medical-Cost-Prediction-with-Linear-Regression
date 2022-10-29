@@ -1,3 +1,3 @@
-# Medilcal Cost Prediction with Linear Regression
+# Medical Cost Prediction with Linear Regression
 
 

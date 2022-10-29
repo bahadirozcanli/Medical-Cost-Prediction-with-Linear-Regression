@@ -1,3 +1,3 @@
-# Medilcal-Cost-Prediction-with-Linear-Regression
+# Medilcal Cost Prediction with Linear Regression
 
-Goal: ?
+
